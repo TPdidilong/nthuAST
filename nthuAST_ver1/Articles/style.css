@@ -1,0 +1,175 @@
+
+body
+{
+	background-color:#000;
+	color:silver;
+	font-family:細明體;
+	font-size:20px;
+}
+
+*+html .line{
+	height:1em;
+	overflow: hidden;
+	position: relative;
+}
+
+* html .line{
+	height:1em;
+}
+
+.line
+{
+	min-height:1em;
+	line-height: 1;
+}
+
+.line a{
+	color: inherit;
+}
+
+.line img
+{
+	max-width:100%;
+}
+
+.f0
+{
+	color:#000;
+}
+
+.f1
+{
+	color:maroon;
+}
+
+.f2
+{
+	color:green;
+}
+
+.f3
+{
+	color:olive;
+}
+
+.f4
+{
+	color:navy;
+}
+
+.f5
+{
+	color:purple;
+}
+
+.f6
+{
+	color:teal;
+}
+
+.f7
+{
+	color:silver;
+}
+
+.f10
+{
+	color:gray;
+}
+
+.f11
+{
+	color:red;
+}
+
+.f12
+{
+	color:#0F0;
+}
+
+.f13
+{
+	color:#FF0;
+}
+
+.f14
+{
+	color:#00F;
+}
+
+.f15
+{
+	color:#F0F;
+}
+
+.f16
+{
+	color:#0FF;
+}
+
+.f17
+{
+	color:#FFF;
+}
+
+.b0
+{
+	background-color:#000;
+}
+
+.b1
+{
+	background-color:maroon;
+}
+
+.b2
+{
+	background-color:green;
+}
+
+.b3
+{
+	background-color:olive;
+}
+
+.b4
+{
+	background-color:navy;
+}
+
+.b5
+{
+	background-color:purple;
+}
+
+.b6
+{
+	background-color:teal;
+}
+
+.b7
+{
+	background-color:silver;
+}
+
+span{
+	display: inline-block;
+}
+
+.p1
+{
+	position:relative;
+	vertical-align: bottom;
+	width: 1em;
+	height: 1em;
+}
+
+.p2
+{
+	bottom: 0;
+	left:.5em;
+	overflow:hidden;
+	position:absolute;
+	text-indent:-.5em;
+	width:.5em;
+}
