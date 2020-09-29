@@ -173,3 +173,15 @@ span{
 	text-indent:-.5em;
 	width:.5em;
 }
+
+@media screen and (max-width: 800px){
+	.line{width: 100%;}
+	body{font-size: 14px;}
+}
+
+hr{
+	height: 2px;
+	color: teal;
+	background-color: teal;
+	border-width: 0px;
+}
